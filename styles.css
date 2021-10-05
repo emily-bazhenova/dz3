@@ -1,0 +1,63 @@
+h1 {
+  color: red;
+  font-size: 50px;
+}
+
+h1 span {
+  color: blue;
+}
+p {
+  color: blue;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+p span {
+  color: red;
+}
+
+button {
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+
+.blue-button {
+  background-color: blue;
+  color: white;
+}
+
+.green-button {
+  background-color: green;
+  color: white;
+}
+
+.squares {
+  height: 100px;
+}
+
+.red-square {
+  display: inline-block;
+  margin: 25px;
+  height: 100px;
+  width: 200px;
+  border-radius: 15px;
+  background-color: red;
+}
+
+.black-square {
+  display: inline-block;
+  margin: 25px;
+  height: 100px;
+  width: 200px;
+  border-radius: 15px;
+  background-color: black;
+}
+
+.blue-square {
+  display: inline-block;
+  margin: 25px;
+  height: 100px;
+  width: 300px;
+  border-radius: 15px;
+  background-color: blue;
+}
