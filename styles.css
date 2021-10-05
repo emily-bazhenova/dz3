@@ -31,10 +31,6 @@ button {
   color: white;
 }
 
-.squares {
-  height: 100px;
-}
-
 .red-square {
   display: inline-block;
   margin: 25px;
